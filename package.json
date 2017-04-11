@@ -1,0 +1,24 @@
+{
+  "name": "mysql-storefront",
+  "version": "1.0.0",
+  "description": "an amazon-like storefront using MySQL and Node.JS",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pakmania10/mysql-storefront.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pakmania10/mysql-storefront/issues"
+  },
+  "homepage": "https://github.com/pakmania10/mysql-storefront#readme",
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "prompt": "^1.0.0"
+  }
+}
